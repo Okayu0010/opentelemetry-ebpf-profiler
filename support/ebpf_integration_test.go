@@ -10,7 +10,7 @@ import (
 
 	cebpf "github.com/cilium/ebpf"
 	"github.com/cilium/ebpf/link"
-	"go.opentelemetry.io/ebpf-profiler/rlimit"
+	"github.com/open-telemetry/opentelemetry-ebpf-profiler/rlimit"
 
 	"github.com/stretchr/testify/require"
 )

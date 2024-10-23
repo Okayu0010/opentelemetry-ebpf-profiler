@@ -9,12 +9,12 @@ import (
 	"os"
 	"testing"
 
+	"github.com/open-telemetry/opentelemetry-ebpf-profiler/testsupport"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.opentelemetry.io/ebpf-profiler/testsupport"
 
-	"go.opentelemetry.io/ebpf-profiler/libpf"
-	"go.opentelemetry.io/ebpf-profiler/libpf/pfelf"
+	"github.com/open-telemetry/opentelemetry-ebpf-profiler/libpf"
+	"github.com/open-telemetry/opentelemetry-ebpf-profiler/libpf/pfelf"
 )
 
 var (

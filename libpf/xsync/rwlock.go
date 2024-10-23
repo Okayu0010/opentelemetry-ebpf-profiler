@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package xsync // import "go.opentelemetry.io/ebpf-profiler/libpf/xsync"
+package xsync // import "github.com/open-telemetry/opentelemetry-ebpf-profiler/libpf/xsync"
 
 import "sync"
 

@@ -6,7 +6,7 @@ package nopanicslicereader
 import (
 	"testing"
 
-	"go.opentelemetry.io/ebpf-profiler/libpf"
+	"github.com/open-telemetry/opentelemetry-ebpf-profiler/libpf"
 
 	"github.com/stretchr/testify/assert"
 )

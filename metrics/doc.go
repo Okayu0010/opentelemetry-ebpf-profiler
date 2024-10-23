@@ -65,4 +65,4 @@ Clickhouse Docs
 
 	https://clickhouse.tech/docs/en/sql-reference/statements/create/#create-query-specialized-codecs
 */
-package metrics // import "go.opentelemetry.io/ebpf-profiler/metrics"
+package metrics // import "github.com/open-telemetry/opentelemetry-ebpf-profiler/metrics"

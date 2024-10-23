@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 // Package basehash provides basic types to implement hash identifiers.
-package basehash // import "go.opentelemetry.io/ebpf-profiler/libpf/basehash"
+package basehash // import "github.com/open-telemetry/opentelemetry-ebpf-profiler/libpf/basehash"
 
 import (
 	"fmt"

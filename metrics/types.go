@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package metrics // import "go.opentelemetry.io/ebpf-profiler/metrics"
+package metrics // import "github.com/open-telemetry/opentelemetry-ebpf-profiler/metrics"
 
 // Create ids.go from metrics.json
 //go:generate go run genids/main.go metrics.json ids.go

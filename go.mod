@@ -1,4 +1,4 @@
-module go.opentelemetry.io/ebpf-profiler
+module github.com/open-telemetry/opentelemetry-ebpf-profiler
 
 go 1.22.2
 

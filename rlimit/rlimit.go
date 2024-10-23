@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package rlimit // import "go.opentelemetry.io/ebpf-profiler/rlimit"
+package rlimit // import "github.com/open-telemetry/opentelemetry-ebpf-profiler/rlimit"
 
 import (
 	"fmt"
